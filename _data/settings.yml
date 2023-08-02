@@ -9,7 +9,7 @@ description: this is meta description
 email: boardom.kaist@gmail.com
 phone: +82 10-XXXX-XXXX
 address: 291 Daehak-ro, Yuseong-gu, Daejeon
-copyright: Copyright &copy; 2020 Boardom KAIST
+copyright: Copyright &copy; 2023 Boardom KAIST
 
 menu:
   - { name: About, link: "/about" }
