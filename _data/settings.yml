@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Boardom
 logo:
 author: themefisher
 description: this is meta description
 email: steve.fruits@email.com
 phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+address: 291 Daehak-ro, Yuseong-gu, Daejeon
+copyright: Copyright &copy; 2020 Boardom KAIST
 
 menu:
   - { name: About, link: "/about" }
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! We're <br> Boardom <br> KAIST
 
 social:
   - { icon: "ti-facebook", link: "#" }
