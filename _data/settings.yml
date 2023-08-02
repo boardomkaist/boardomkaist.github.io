@@ -124,22 +124,22 @@ education-title: Most Popular Board Games
 education:
   - {
       name: Avalon,
-      date: "1",
+      date: "7.50",
       organization: "2021 Bulgarian Board Game Awards Game of the Year Nominee",
     }
   - {
       name: Skull,
-      date: "2",
+      date: "7.20",
       organization: "2011 As d'Or - Jeu de l'Année Winner",
     }
   - {
       name: Bang,
-      date: "3",
+      date: "6.49",
       organization: "2003 Origins Awards Best Traditional Card Game Winner",
     }
   - {
       name: Dixit,
-      date: "4",
+      date: "7.41",
       organization: "2011 Ludoteca Ideale Official Selection Winner",
     }
 
