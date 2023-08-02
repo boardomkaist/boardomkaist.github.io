@@ -86,7 +86,7 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: Statistics
 skills:
   - { name: Socialization, color: "#fdb157", value: "90%" }
   - { name: Fun, color: "#9473e6", value: "80%" }
@@ -96,25 +96,25 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Governing Body
 experience:
   - {
-      name: Junior UX Designer,
+      name: Turan Mammadli,
       icon: "icon-1.png",
       date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      organization: "Representative",
     }
   - {
-      name: UX & UI Designer,
+      name: Olesia Bilyk,
       icon: "icon-2.png",
       date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      organization: "Creator",
     }
   - {
-      name: Senior UI Designer,
+      name: Munim Hasan Wasi,
       icon: "icon-3.png",
       date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      organization: "Representative",
     }
 
 #-------------------------------
