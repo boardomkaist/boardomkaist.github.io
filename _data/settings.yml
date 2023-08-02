@@ -90,7 +90,7 @@ skills-title: Statistics
 skills:
   - { name: Socialization, color: "#fdb157", value: "90%" }
   - { name: Fun, color: "#9473e6", value: "80%" }
-  - { name: Challenge, color: "#bdecf6", value: "95" }
+  - { name: Challenge, color: "#bdecf6", value: "95%" }
   - { name: Board Games, color: "#ffbcaa", value: "100%" }
 
 #-------------------------------
